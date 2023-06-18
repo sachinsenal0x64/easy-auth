@@ -21,4 +21,4 @@ python or python3 app.py
 ```
 
 ## 🏮 NOTE
-#### You Want to Fill .ENV File According To Azure AD
+#### You Want to Fill .ENV File According To Azure AD APP
