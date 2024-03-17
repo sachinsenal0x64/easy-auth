@@ -1,7 +1,5 @@
 # MICROSOFT-EASY-AUTH
 
-## 📢 You Can Get Easily Microsoft Auth Tokens From This Script (EX: Auth toks,Refresh toks)
-
 
 ### First Create Azure Active Directory APPLICATION.. 
 
