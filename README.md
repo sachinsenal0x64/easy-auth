@@ -1,8 +1,9 @@
 ## MICROSOFT-EASY-AUTH
 
 
-### First Create Azure Active Directory APPLICATION.. 
+>  First Create Azure Active Directory APPLICATION. 
 
+<br>
 
 ### ⏳ Just Run 
 
