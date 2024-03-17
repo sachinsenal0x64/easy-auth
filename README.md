@@ -1,7 +1,8 @@
 ## MICROSOFT-EASY-AUTH
 
 
->  First Create Azure Active Directory APPLICATION. 
+>  First Create Azure Active Directory APPLICATION.
+>  You Have to Fill .ENV File According To Azure AD APP
 
 <br>
 
@@ -18,6 +19,3 @@ pip or pip3 install -r requirements.txt
 python or python3 app.py
 
 ```
-
-## 🏮 NOTE
-#### You Want to Fill .ENV File According To Azure AD APP
